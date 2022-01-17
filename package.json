@@ -1,0 +1,19 @@
+{
+  "name": "subhan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "start": "nodemon api.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "es6-promise": "^4.2.8",
+    "express": "^4.17.2",
+    "github-api": "^3.4.0",
+    "nodemon": "^2.0.15",
+    "Promise": "^1.0.5"
+  }
+}
